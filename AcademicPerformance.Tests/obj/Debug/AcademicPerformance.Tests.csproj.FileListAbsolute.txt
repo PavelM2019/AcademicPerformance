@@ -23,3 +23,28 @@ C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task
 C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance.Tests\obj\Debug\AcademicPerformance.Tests.csproj.CopyComplete
 C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance.Tests\obj\Debug\AcademicPerformance.Tests.dll
 C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance.Tests\obj\Debug\AcademicPerformance.Tests.pdb
+C:\Projects\AcademicPerformance\AcademicPerformance.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Projects\AcademicPerformance\AcademicPerformance.Tests\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Projects\AcademicPerformance\AcademicPerformance.Tests\bin\Debug\xunit.abstractions.dll
+C:\Projects\AcademicPerformance\AcademicPerformance.Tests\bin\Debug\AcademicPerformance.Tests.dll
+C:\Projects\AcademicPerformance\AcademicPerformance.Tests\bin\Debug\AcademicPerformance.Tests.pdb
+C:\Projects\AcademicPerformance\AcademicPerformance.Tests\bin\Debug\AcademicPerformance.Objects.dll
+C:\Projects\AcademicPerformance\AcademicPerformance.Tests\bin\Debug\CodeGenerator.dll
+C:\Projects\AcademicPerformance\AcademicPerformance.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\AcademicPerformance\AcademicPerformance.Tests\bin\Debug\xunit.assert.dll
+C:\Projects\AcademicPerformance\AcademicPerformance.Tests\bin\Debug\xunit.core.dll
+C:\Projects\AcademicPerformance\AcademicPerformance.Tests\bin\Debug\xunit.execution.desktop.dll
+C:\Projects\AcademicPerformance\AcademicPerformance.Tests\bin\Debug\AcademicPerformance.Objects.pdb
+C:\Projects\AcademicPerformance\AcademicPerformance.Tests\bin\Debug\CodeGenerator.pdb
+C:\Projects\AcademicPerformance\AcademicPerformance.Tests\bin\Debug\xunit.assert.pdb
+C:\Projects\AcademicPerformance\AcademicPerformance.Tests\bin\Debug\xunit.assert.xml
+C:\Projects\AcademicPerformance\AcademicPerformance.Tests\bin\Debug\xunit.core.pdb
+C:\Projects\AcademicPerformance\AcademicPerformance.Tests\bin\Debug\xunit.core.xml
+C:\Projects\AcademicPerformance\AcademicPerformance.Tests\bin\Debug\xunit.execution.desktop.pdb
+C:\Projects\AcademicPerformance\AcademicPerformance.Tests\bin\Debug\xunit.execution.desktop.xml
+C:\Projects\AcademicPerformance\AcademicPerformance.Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Projects\AcademicPerformance\AcademicPerformance.Tests\obj\Debug\AcademicPerformance.Tests.csprojAssemblyReference.cache
+C:\Projects\AcademicPerformance\AcademicPerformance.Tests\obj\Debug\AcademicPerformance.Tests.csproj.CoreCompileInputs.cache
+C:\Projects\AcademicPerformance\AcademicPerformance.Tests\obj\Debug\AcademicPerformance.Tests.csproj.CopyComplete
+C:\Projects\AcademicPerformance\AcademicPerformance.Tests\obj\Debug\AcademicPerformance.Tests.dll
+C:\Projects\AcademicPerformance\AcademicPerformance.Tests\obj\Debug\AcademicPerformance.Tests.pdb

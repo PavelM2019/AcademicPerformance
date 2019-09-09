@@ -7,3 +7,12 @@ C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task
 C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\CodeGenerator\obj\Debug\CodeGenerator.csproj.CopyComplete
 C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\CodeGenerator\obj\Debug\CodeGenerator.dll
 C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\CodeGenerator\obj\Debug\CodeGenerator.pdb
+C:\Projects\AcademicPerformance\CodeGenerator\bin\Debug\CodeGenerator.dll
+C:\Projects\AcademicPerformance\CodeGenerator\bin\Debug\CodeGenerator.pdb
+C:\Projects\AcademicPerformance\CodeGenerator\bin\Debug\AcademicPerformance.Objects.dll
+C:\Projects\AcademicPerformance\CodeGenerator\bin\Debug\AcademicPerformance.Objects.pdb
+C:\Projects\AcademicPerformance\CodeGenerator\obj\Debug\CodeGenerator.csprojAssemblyReference.cache
+C:\Projects\AcademicPerformance\CodeGenerator\obj\Debug\CodeGenerator.csproj.CoreCompileInputs.cache
+C:\Projects\AcademicPerformance\CodeGenerator\obj\Debug\CodeGenerator.csproj.CopyComplete
+C:\Projects\AcademicPerformance\CodeGenerator\obj\Debug\CodeGenerator.dll
+C:\Projects\AcademicPerformance\CodeGenerator\obj\Debug\CodeGenerator.pdb
