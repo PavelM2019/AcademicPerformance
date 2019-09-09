@@ -1,0 +1,5 @@
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance.Objects\bin\Debug\AcademicPerformance.Objects.dll
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance.Objects\bin\Debug\AcademicPerformance.Objects.pdb
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance.Objects\obj\Debug\AcademicPerformance.Objects.csproj.CoreCompileInputs.cache
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance.Objects\obj\Debug\AcademicPerformance.Objects.dll
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance.Objects\obj\Debug\AcademicPerformance.Objects.pdb

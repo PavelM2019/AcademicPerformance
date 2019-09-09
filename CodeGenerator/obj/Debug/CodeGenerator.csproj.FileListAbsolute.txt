@@ -1,0 +1,9 @@
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\CodeGenerator\bin\Debug\CodeGenerator.dll
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\CodeGenerator\bin\Debug\CodeGenerator.pdb
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\CodeGenerator\bin\Debug\AcademicPerformance.Objects.dll
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\CodeGenerator\bin\Debug\AcademicPerformance.Objects.pdb
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\CodeGenerator\obj\Debug\CodeGenerator.csprojAssemblyReference.cache
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\CodeGenerator\obj\Debug\CodeGenerator.csproj.CoreCompileInputs.cache
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\CodeGenerator\obj\Debug\CodeGenerator.csproj.CopyComplete
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\CodeGenerator\obj\Debug\CodeGenerator.dll
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\CodeGenerator\obj\Debug\CodeGenerator.pdb

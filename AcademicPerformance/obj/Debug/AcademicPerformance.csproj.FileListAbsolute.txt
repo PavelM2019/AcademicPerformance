@@ -1,0 +1,104 @@
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\roslyn\csc.exe
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\roslyn\vbc.exe
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\roslyn\VBCSCompiler.exe
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\AcademicPerformance.dll.config
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\AcademicPerformance.dll
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\AcademicPerformance.pdb
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\AcademicPerformance.DAL.dll
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\AcademicPerformance.Objects.dll
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\Antlr3.Runtime.dll
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\AspNet.ScriptManager.jQuery.dll
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\CodeGenerator.dll
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\Microsoft.Practices.Unity.dll
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\Newtonsoft.Json.dll
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\System.Web.Optimization.dll
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\WebGrease.dll
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\AcademicPerformance.DAL.pdb
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\AcademicPerformance.Objects.pdb
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\CodeGenerator.pdb
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\Microsoft.Practices.Unity.xml
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\System.Web.Optimization.xml
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\Antlr3.Runtime.pdb
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\Newtonsoft.Json.xml
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\obj\Debug\AcademicPerformance.csprojAssemblyReference.cache
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\obj\Debug\AcademicPerformance.csproj.CoreCompileInputs.cache
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\obj\Debug\AcademicPerformance.csproj.CopyComplete
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\obj\Debug\AcademicPerformance.dll
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance\obj\Debug\AcademicPerformance.pdb
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\roslyn\csc.exe
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\roslyn\vbc.exe
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\roslyn\VBCSCompiler.exe
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\AcademicPerformance.dll.config
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\AcademicPerformance.dll
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\AcademicPerformance.pdb
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\AcademicPerformance.DAL.dll
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\AcademicPerformance.Objects.dll
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\Antlr3.Runtime.dll
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\AspNet.ScriptManager.jQuery.dll
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\CodeGenerator.dll
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\Microsoft.Practices.Unity.dll
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\Newtonsoft.Json.dll
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\System.Web.Optimization.dll
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\WebGrease.dll
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\AcademicPerformance.DAL.pdb
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\AcademicPerformance.Objects.pdb
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\CodeGenerator.pdb
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\Microsoft.Practices.Unity.xml
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\System.Web.Optimization.xml
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\Antlr3.Runtime.pdb
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\Newtonsoft.Json.xml
+C:\Projects\AcademicPerformance\AcademicPerformance\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Projects\AcademicPerformance\AcademicPerformance\obj\Debug\AcademicPerformance.csprojAssemblyReference.cache
+C:\Projects\AcademicPerformance\AcademicPerformance\obj\Debug\AcademicPerformance.csproj.CoreCompileInputs.cache
+C:\Projects\AcademicPerformance\AcademicPerformance\obj\Debug\AcademicPerformance.csproj.CopyComplete
+C:\Projects\AcademicPerformance\AcademicPerformance\obj\Debug\AcademicPerformance.dll
+C:\Projects\AcademicPerformance\AcademicPerformance\obj\Debug\AcademicPerformance.pdb

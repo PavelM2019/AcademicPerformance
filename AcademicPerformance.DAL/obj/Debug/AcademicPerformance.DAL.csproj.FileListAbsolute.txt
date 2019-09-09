@@ -1,0 +1,22 @@
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance.DAL\bin\Debug\AcademicPerformance.DAL.dll
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance.DAL\bin\Debug\AcademicPerformance.DAL.pdb
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance.DAL\bin\Debug\AcademicPerformance.Objects.dll
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance.DAL\bin\Debug\CodeGenerator.dll
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance.DAL\bin\Debug\AcademicPerformance.Objects.pdb
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance.DAL\bin\Debug\CodeGenerator.pdb
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance.DAL\obj\Debug\AcademicPerformance.DAL.csprojAssemblyReference.cache
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance.DAL\obj\Debug\AcademicPerformance.DAL.csproj.CoreCompileInputs.cache
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance.DAL\obj\Debug\AcademicPerformance.DAL.csproj.CopyComplete
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance.DAL\obj\Debug\AcademicPerformance.DAL.dll
+C:\Projects\flexberry-study-2017-master\flexberry-study-2017-master\Example\Task 1\AcademicPerformance.DAL\obj\Debug\AcademicPerformance.DAL.pdb
+C:\Projects\AcademicPerformance\AcademicPerformance.DAL\bin\Debug\AcademicPerformance.DAL.dll
+C:\Projects\AcademicPerformance\AcademicPerformance.DAL\bin\Debug\AcademicPerformance.DAL.pdb
+C:\Projects\AcademicPerformance\AcademicPerformance.DAL\bin\Debug\AcademicPerformance.Objects.dll
+C:\Projects\AcademicPerformance\AcademicPerformance.DAL\bin\Debug\CodeGenerator.dll
+C:\Projects\AcademicPerformance\AcademicPerformance.DAL\bin\Debug\AcademicPerformance.Objects.pdb
+C:\Projects\AcademicPerformance\AcademicPerformance.DAL\bin\Debug\CodeGenerator.pdb
+C:\Projects\AcademicPerformance\AcademicPerformance.DAL\obj\Debug\AcademicPerformance.DAL.csprojAssemblyReference.cache
+C:\Projects\AcademicPerformance\AcademicPerformance.DAL\obj\Debug\AcademicPerformance.DAL.csproj.CoreCompileInputs.cache
+C:\Projects\AcademicPerformance\AcademicPerformance.DAL\obj\Debug\AcademicPerformance.DAL.csproj.CopyComplete
+C:\Projects\AcademicPerformance\AcademicPerformance.DAL\obj\Debug\AcademicPerformance.DAL.dll
+C:\Projects\AcademicPerformance\AcademicPerformance.DAL\obj\Debug\AcademicPerformance.DAL.pdb
