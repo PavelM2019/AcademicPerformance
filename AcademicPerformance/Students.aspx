@@ -60,6 +60,7 @@
             </td>
             <td>
                 <asp:Button ID="ButtonClear" runat="server" Text="Очистить" OnClick="ButtonClear_OnClick"/>
+                <asp:Label ID="LabelEscMessages" runat="server"   ForeColor="#CC0000"></asp:Label>
             </td>
         </tr>
     </table>

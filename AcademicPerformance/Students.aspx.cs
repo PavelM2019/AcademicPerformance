@@ -12,6 +12,8 @@ namespace AcademicPerformance
 {
     public partial class Students : Page
     {
+        public string Фамилия { get; private set; }
+
         public КодСпециальности GetКодСпециальности(string кодСпециальности)
         {
             switch (кодСпециальности)
@@ -63,19 +65,35 @@ namespace AcademicPerformance
         {
             var студент = new Студент()
             {
-                Фамилия = TextBoxSurname.Text,
-                Имя = TextBoxName.Text,
-                Отчество = TextBoxPatronymic.Text,
+                Фамилия = TextBoxSurname.Text.Trim(),
+                Имя = TextBoxName.Text.Trim(),
+                Отчество = TextBoxPatronymic.Text.Trim(),
                 НомерГруппы = TextBoxGroup.Text,
                 ДатаРождения = CalendarDateBirth.SelectedDate,
                 КодСпециальности = GetКодСпециальности(DropDownListSpecialityCode.SelectedValue)
             };
+            if (студент.Фамилия == "") {
+                LabelEscMessages.Text = " Заполните фамилию!";
+                return;
+            }
+            if (студент.Имя == "")
+            {
+                LabelEscMessages.Text = " Заполните Имя!";
+                return;
+            }
+            if (студент.Отчество == "")
+            {
+                LabelEscMessages.Text = " Заполните Отчество!";
+                return;
+            }
 
+            LabelEscMessages.Text = "";
             DataServiceProvider.Current.AddStudent(студент);
             Session["IsStudentAdded"] = true;
             Response.Redirect(Request.Url.AbsoluteUri);
         }
 
+  
         protected void ButtonClear_OnClick(object sender, EventArgs e)
         {
             DataServiceProvider.Current.ClearStudents();
